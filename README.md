@@ -3,7 +3,7 @@ Hi, my name *Dmitry Kazakovtsev*
 
 I student netology.
 
-I like coding.
+I like coding and dogs.
 
 ---
 Phone: 8 800 555 35 35
